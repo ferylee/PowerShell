@@ -1,0 +1,2 @@
+# PowerShell
+有闖在macbook學習powershell的一些記錄

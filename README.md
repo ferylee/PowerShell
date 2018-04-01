@@ -1,2 +1,2 @@
 # PowerShell
-有闖在macbook學習powershell的一些記錄
+有管使用macOS學習powershell的記錄
